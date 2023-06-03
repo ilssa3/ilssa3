@@ -15,7 +15,8 @@
  ✮ How to reach me **ilianaiskarova@gmail.com**
 
 ✮ **spiritual person :p**
- ✮ //student//
+
+ ✮ student
 
 <h3 align="left">Socials:</h3>
 <p align="left">
