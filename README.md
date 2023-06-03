@@ -1,5 +1,7 @@
+![MasterHead]
+
 <h1 align="center">Heyyyyy, I'm Iliyana ✭</h1>
-<h3 align="center">student </h3>
+<h3 align="center">future software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cute-anime-kitten-typing-cat-bwqjywmrsxcjv5o3.gif">
 
 
