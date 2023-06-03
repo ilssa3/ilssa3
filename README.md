@@ -6,15 +6,16 @@
 
 
 
-- ✮ I’m currently working on [my mains in java (gui/basics)](https://github.com/ilssa3/codes-main)
+✮ I’m currently working on [my mains in java (gui/basics)](https://github.com/ilssa3/codes-main)
  
-- ✮ I’m currently learning **the basics of programming ᨐฅ**
+ ✮ I’m currently learning **the basics of programming ᨐฅ**
 
-- ✮ Ask me about **anything ;)**                             
+✮ Ask me about **anything ;)**                             
 
-- ✮ How to reach me **ilianaiskarova@gmail.com**
+ ✮ How to reach me **ilianaiskarova@gmail.com**
 
-- ✮ **spiritual person :p**
+✮ **spiritual person :p**
+ ✮ //student//
 
 <h3 align="left">Socials:</h3>
 <p align="left">
