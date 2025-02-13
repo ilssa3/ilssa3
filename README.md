@@ -26,11 +26,10 @@
 
 <h4 align="left">Languages:</h4>
 
-![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) **HTML** – HyperText Markup Language for structure.
- ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) **CSS** – Cascading Style Sheets for styling.
- ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java** – Programming language used for backend logic.
- ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL** – Database management system used for data storage.
- 
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) 
+ ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
+ ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+ ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 
 
