@@ -26,10 +26,11 @@
 
 <h4 align="left">Languages:</h4>
 
-![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) 
- ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
- ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
  ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
+ ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+ ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
+
 
 
 
