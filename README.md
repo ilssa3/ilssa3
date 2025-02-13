@@ -27,8 +27,8 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40" height="40"/> </a>
-   <a href="https://www.css.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="40" height="40"/> </a></p>
+ - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) **HTML** – HyperText Markup Language for structure.
+- ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) **CSS** – Cascading Style Sheets for styling.</p>
  
 
 
