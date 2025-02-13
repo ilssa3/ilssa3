@@ -27,8 +27,8 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-[HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) 
-[CSS Icon](https://img.icons8.com/color/48/000000/css3.png) </p>
+-![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) 
+-![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) </p>
  
 
 
