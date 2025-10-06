@@ -30,7 +30,6 @@
  ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
-![Python Icon](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png)
-
+![Python Icon](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png)
 
 
